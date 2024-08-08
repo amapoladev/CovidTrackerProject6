@@ -17,7 +17,7 @@ Users can enter through a homepage that gives them context about the website and
 <ul>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwind logo" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="62" alt="tailwind logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo"/>
 </ul>
 
@@ -37,7 +37,7 @@ Users can enter through a homepage that gives them context about the website and
 - [Loli Vila](https://github.com/Vila71)
 - [Yamila Ranea](https://github.com/yamiranea)<br>
 
-**🦠 Try the site alive HERE** [in Netflify pages ](https://google.com/)
+**🦠 Try the site alive HERE** [in Netflify pages ](https://covidtrackdep.netlify.app/)
 
 > [!TIP]
 >
