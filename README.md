@@ -37,7 +37,7 @@ Users can enter through a homepage that gives them context about the website and
 - [Loli Vila](https://github.com/Vila71)
 - [Yamila Ranea](https://github.com/yamiranea)<br>
 
-**🦠 Try the site alive HERE** [in Netflify pages ](https://covidtrackdep.netlify.app/)
+**🦠 [Try the site alive HERE**](https://covidtrackdep.netlify.app/)
 
 > [!TIP]
 >
