@@ -1,7 +1,7 @@
 import React from "react";
 import "../TopTen/topTen.css";
-import CardTopten from "../../atoms/CardTopten/CardTopten";
 import useFetch from "../../services/UseFetch";
+import CardTopten from "../../atoms/cardTopten/CardTopten";
 
 const Topten = () => {
   const url = "https://disease.sh/v3/covid-19/";
